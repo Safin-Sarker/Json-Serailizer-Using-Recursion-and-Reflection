@@ -1,0 +1,14 @@
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\bin\Debug\net8.0\Json Serailizer Using Recursion and Reflection.exe
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\bin\Debug\net8.0\Json Serailizer Using Recursion and Reflection.deps.json
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\bin\Debug\net8.0\Json Serailizer Using Recursion and Reflection.runtimeconfig.json
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\bin\Debug\net8.0\Json Serailizer Using Recursion and Reflection.dll
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\bin\Debug\net8.0\Json Serailizer Using Recursion and Reflection.pdb
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\Json Serailizer Using Recursion and Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\Json Serailizer Using Recursion and Reflection.AssemblyInfoInputs.cache
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\Json Serailizer Using Recursion and Reflection.AssemblyInfo.cs
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\Json Serailizer Using Recursion and Reflection.csproj.CoreCompileInputs.cache
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\Json Serailizer Using Recursion and Reflection.dll
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\refint\Json Serailizer Using Recursion and Reflection.dll
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\Json Serailizer Using Recursion and Reflection.pdb
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\Json Serailizer Using Recursion and Reflection.genruntimeconfig.cache
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\ref\Json Serailizer Using Recursion and Reflection.dll

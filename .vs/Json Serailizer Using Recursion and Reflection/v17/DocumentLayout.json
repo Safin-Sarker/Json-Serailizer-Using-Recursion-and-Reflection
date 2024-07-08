@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|d:\\devskill asp.net core course\\aiignment repository\\assignment 1\\json serailizer using recursion and reflection\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|solutionrelative:jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|d:\\devskill asp.net core course\\aiignment repository\\assignment 1\\json serailizer using recursion and reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|d:\\devskill asp.net core course\\aiignment repository\\assignment 1\\json serailizer using recursion and reflection\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|solutionrelative:session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|d:\\devskill asp.net core course\\aiignment repository\\assignment 1\\json serailizer using recursion and reflection\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|solutionrelative:phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|d:\\devskill asp.net core course\\aiignment repository\\assignment 1\\json serailizer using recursion and reflection\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|solutionrelative:topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|JsonFormattingAssignment.csproj|d:\\devskill asp.net core course\\aiignment repository\\assignment 1\\json serailizer using recursion and reflection\\jsonformattingassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|JsonFormattingAssignment.csproj|solutionrelative:jsonformattingassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|d:\\devskill asp.net core course\\aiignment repository\\assignment 1\\json serailizer using recursion and reflection\\admissiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|solutionrelative:admissiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|d:\\devskill asp.net core course\\aiignment repository\\assignment 1\\json serailizer using recursion and reflection\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|solutionrelative:address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|d:\\devskill asp.net core course\\aiignment repository\\assignment 1\\json serailizer using recursion and reflection\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|d:\\devskill asp.net core course\\aiignment repository\\assignment 1\\json serailizer using recursion and reflection\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA45A5D6-1998-4D3C-928B-0CC6965C38DA}|Json Serailizer Using Recursion and Reflection.csproj|solutionrelative:instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:193525246:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonFormattingAssignment.csproj",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\JsonFormattingAssignment.csproj",
+              "RelativeDocumentMoniker": "JsonFormattingAssignment.csproj",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\JsonFormattingAssignment.csproj",
+              "RelativeToolTip": "JsonFormattingAssignment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T17:31:33.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonFormatter.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\JsonFormatter.cs",
+              "RelativeDocumentMoniker": "JsonFormatter.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\JsonFormatter.cs",
+              "RelativeToolTip": "JsonFormatter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:29:22.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Session.cs",
+              "RelativeDocumentMoniker": "Session.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Session.cs",
+              "RelativeToolTip": "Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:28:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Topic.cs",
+              "RelativeDocumentMoniker": "Topic.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Topic.cs",
+              "RelativeToolTip": "Topic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:28:09.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Phone.cs",
+              "RelativeDocumentMoniker": "Phone.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Phone.cs",
+              "RelativeToolTip": "Phone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:27:52.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Address.cs",
+              "RelativeDocumentMoniker": "Address.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Address.cs",
+              "RelativeToolTip": "Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:27:20.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Instructor.cs",
+              "RelativeDocumentMoniker": "Instructor.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Instructor.cs",
+              "RelativeToolTip": "Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:26:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:26:27.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:16:04.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdmissionTest.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\AdmissionTest.cs",
+              "RelativeDocumentMoniker": "AdmissionTest.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Aiignment Repository\\Assignment 1\\Json Serailizer Using Recursion and Reflection\\AdmissionTest.cs",
+              "RelativeToolTip": "AdmissionTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:28:53.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

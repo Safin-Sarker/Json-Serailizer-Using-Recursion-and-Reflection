@@ -1,0 +1,14 @@
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\bin\Debug\net8.0\JsonFormattingAssignment.exe
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\bin\Debug\net8.0\JsonFormattingAssignment.deps.json
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\bin\Debug\net8.0\JsonFormattingAssignment.runtimeconfig.json
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\bin\Debug\net8.0\JsonFormattingAssignment.dll
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\bin\Debug\net8.0\JsonFormattingAssignment.pdb
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\JsonFormattingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\JsonFormattingAssignment.AssemblyInfoInputs.cache
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\JsonFormattingAssignment.AssemblyInfo.cs
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\JsonFormattingAssignment.csproj.CoreCompileInputs.cache
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\JsonFormattingAssignment.dll
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\refint\JsonFormattingAssignment.dll
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\JsonFormattingAssignment.pdb
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\JsonFormattingAssignment.genruntimeconfig.cache
+D:\DevSkill Asp.net Core Course\Aiignment Repository\Assignment 1\Json Serailizer Using Recursion and Reflection\obj\Debug\net8.0\ref\JsonFormattingAssignment.dll
